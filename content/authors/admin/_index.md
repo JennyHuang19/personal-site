@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student | ML
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: MIT
-    url: [https://www.eecs.mit.edu/](https://www.eecs.mit.edu/)
+    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -78,5 +78,5 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-Alice Wu is a PhD student of machine learning under the EECS department at MIT.
+Jenny Y. Huang is a PhD student of machine learning in the EECS department at MIT.
 {style="text-align: justify;"}
