@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Machine Learning
+role: PhD Student MIT EECS | Quad Fellow | U.S. Presidential Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,19 +51,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    # link: https://twitter.com/JennyHuang99
+    link: https://twitter.com/JennyHuang99
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    # link: https://github.com/jennyhuang19
+    link: https://github.com/jennyhuang19
   - icon: linkedin
     icon_pack: fab
-    # link: [https:/www.linkedin.com/in/jenny-y-huang/](https://www.linkedin.com/in/jenny-y-huang/)
+    link: https://www.linkedin.com/in/jenny-y-huang/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
