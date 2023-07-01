@@ -46,15 +46,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 4 years experience
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: Undergraduate Major
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Python
+          description: 4 years experience
           icon: camera-retro
           icon_pack: fas
   - block: experience
