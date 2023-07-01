@@ -78,7 +78,7 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-Welcome everyone! I am a first year PhD student in Machine Learning, grateful to be working in the department of [Electrical Engineering and Computer Science at MIT](https://www.eecs.mit.edu/). 
+I am a first year PhD student in Machine Learning, grateful to be working in the department of [Electrical Engineering and Computer Science at MIT](https://www.eecs.mit.edu/). 
 
 Some current questions on my mind include: How can we make Bayesian inference more robust and scalable? How can we use our understanding of supervised learning to develop new theoretical and algorithmic tools for modern problems in RL and DL? How can we get computers to share our intuition about causes and effects? 
 
