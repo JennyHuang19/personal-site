@@ -19,7 +19,7 @@ role: PhD Student in Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: MIT
-    # url: [https://www.eecs.mit.edu/](https://www.eecs.mit.edu/)
+    url: [https://www.eecs.mit.edu/](https://www.eecs.mit.edu/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -78,5 +78,5 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-Jenny Y. Huang is a PhD student of machine learning in the EECS department at MIT.
+Jenny Huang is a PhD student in ML at MIT.
 {style="text-align: justify;"}
