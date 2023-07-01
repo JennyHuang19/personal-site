@@ -19,7 +19,7 @@ role: PhD Student in Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: MIT
-    url: [https://www.eecs.mit.edu/](https://www.eecs.mit.edu/)
+    url: https://www.eecs.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
