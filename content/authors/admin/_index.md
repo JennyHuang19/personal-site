@@ -78,7 +78,11 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-Welcome everyone! I am a first year PhD student in Machine Learning, grateful to be working in the department of Electrical Engineering and Computer Science at MIT. Some current questions on my mind include: How can we make Bayesian inference more robust and scalable? How can we use our understanding of supervised learning to develop new theoretical and algorithmic tools for modern problems in RL and DL? How can we get computers to share our intuition about causes and effects? Before coming to MIT, I did my undergrad at Duke University, where I was fortunate work with a host of amazing professors, including [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I got my first taste of research, developed my raging optimism, and fell for the world of stem ~
+Welcome everyone! I am a first year PhD student in Machine Learning, grateful to be working in the department of Electrical Engineering and Computer Science at MIT. 
+
+Some current questions on my mind include: How can we make Bayesian inference more robust and scalable? How can we use our understanding of supervised learning to develop new theoretical and algorithmic tools for modern problems in RL and DL? How can we get computers to share our intuition about causes and effects? 
+
+Before MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I was fortunate work with a host of amazing professors, including [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I got my first taste of research, developed my raging optimism, and fell for the world of stem.
 
 
 {style="text-align: justify;"}
