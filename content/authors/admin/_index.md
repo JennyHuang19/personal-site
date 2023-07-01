@@ -19,7 +19,7 @@ role: PhD Student in Machine Learning
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: MIT
-    url:
+    # url: [https://www.eecs.mit.edu/](https://www.eecs.mit.edu/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -51,7 +51,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/JennyHuang99
+    # link: https://twitter.com/JennyHuang99
     label: Follow me on Twitter
     display:
       header: true
@@ -60,10 +60,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/jennyhuang19
+    # link: https://github.com/jennyhuang19
   - icon: linkedin
     icon_pack: fab
-    link: [https:/www.linkedin.com/in/jenny-y-huang/](https://www.linkedin.com/in/jenny-y-huang/)
+    # link: [https:/www.linkedin.com/in/jenny-y-huang/](https://www.linkedin.com/in/jenny-y-huang/)
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
