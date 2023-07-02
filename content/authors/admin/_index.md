@@ -34,6 +34,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Electrical Engineering and Computer Science (in progress)
+      institution: Massachusetts Institute of Technology
     - course: BSc in Statistical Science
       institution: Duke University
       year: 2023
