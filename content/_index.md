@@ -19,13 +19,13 @@ sections:
           description: 4 years experience
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: Undergraduate Major
-          icon: chart-line
-          icon_pack: fas
         - name: Python
           description: 4 years experience
-          icon: camera-retro
+          icon: python
+          icon_pack: fas
+        - name: Probability and Statistics
+          # description: Undergraduate Major
+          icon: chart-line
           icon_pack: fas
   - block: experience
     content:
