@@ -27,9 +27,7 @@ featured: false
 
 links:
 - name: Custom Link
-  url: ""
-url_pdf: "https://arxiv.org/pdf/2211.14691.pdf"
-url_code: "https://github.com/JennyHuang19/damcmc_timevarying_beta"
+  url: "https://arxiv.org/abs/2211.14691"
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
