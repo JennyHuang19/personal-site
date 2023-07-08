@@ -30,7 +30,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING"
+#   url: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
 url_pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
 url_code: 'https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING'
 url_dataset: ''
