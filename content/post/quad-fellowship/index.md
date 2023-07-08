@@ -3,7 +3,7 @@ title: Quad Fellowship Summit
 subtitle:
 
 # Summary for listings and search engines
-# summary: 
+# summary: This June, I had the pleasure of joining the first ever cohort of #QuadFellows: a group of young scholars and founders dedicated to the world’s leading #STEM challenges. At the summit, I had the opportunity to engage in thought-provoking discussion and talk to leading voices in government, academia, and industry on ways we can leverage STEM for social good -- feeling humbled and inspired! The @QuadFellowship is an initiative, operated by Schmidt Futures, to develop a global network of scientists and technologists committed to advancing collaborations in the private, public, and academic sectors in each of the Quad countries. (photos: c/o Quad Fellowship)
 
 # Date published
 date: '2023-06-02T00:00:00Z'
