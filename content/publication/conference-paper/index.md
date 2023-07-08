@@ -40,12 +40,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: https://openreview.net/forum?id=ZNUcipRpUck
-
-url_pdf: ''
+url_pdf: "https://openreview.net/forum?id=ZNUcipRpUck"
 url_code: 'https://github.com/albertyusun/cisil-causal-inference'
 url_dataset:
 url_poster: ''
