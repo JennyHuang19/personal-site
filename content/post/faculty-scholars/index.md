@@ -1,6 +1,6 @@
 ---
 title: 2022 Duke Faculty Scholars
-subtitle: Duke Today: Faculty Scholars Article
+subtitle: Duke Today Faculty Scholars Article
 
 # Summary for listings and search engines
 # summary:
