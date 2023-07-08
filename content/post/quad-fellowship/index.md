@@ -27,5 +27,5 @@ image:
 
 ---
 
-[in Forbes](https://www.forbes.com/sites/michaeltnietzel/2022/12/27/inaugural-50000-quad-fellowships-awarded-to-25-american-students/?sh=44bf1005a360)
-[Learn more about the Fellowship Here](https://www.quadfellowship.org/)
+- [in Forbes](https://www.forbes.com/sites/michaeltnietzel/2022/12/27/inaugural-50000-quad-fellowships-awarded-to-25-american-students/?sh=44bf1005a360)
+- [Learn more about the Fellowship Here](https://www.quadfellowship.org/)
