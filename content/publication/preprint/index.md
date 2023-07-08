@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Throughout the course of an epidemic, the rate at which disease spreads varies with behavioral changes, the emergence of new disease variants, and the introduction of mitigation policies. Estimating such changes in transmission rates can help us better model and predict the dynamics of an epidemic, and provide insight into the efficacy of control and intervention strategies. We present a method for likelihood-based estimation of parameters in the stochastic SIR model under a time-inhomogeneous transmission rate comprised of piecewise constant components. In doing so, our method simultaneously learns change points in the transmission rate via a Markov chain Monte Carlo algorithm. The method targets the exact model posterior in a difficult missing data setting given only partially observed case counts over time. We validate performance on simulated data before applying our approach to data from an Ebola outbreak in Western Africa and COVID-19 outbreak on a university campus.
+abstract: "Throughout the course of an epidemic, the rate at which disease spreads varies with behavioral changes, the emergence of new disease variants, and the introduction of mitigation policies. Estimating such changes in transmission rates can help us better model and predict the dynamics of an epidemic, and provide insight into the efficacy of control and intervention strategies. We present a method for likelihood-based estimation of parameters in the stochastic SIR model under a time-inhomogeneous transmission rate comprised of piecewise constant components. In doing so, our method simultaneously learns change points in the transmission rate via a Markov chain Monte Carlo algorithm. The method targets the exact model posterior in a difficult missing data setting given only partially observed case counts over time. We validate performance on simulated data before applying our approach to data from an Ebola outbreak in Western Africa and COVID-19 outbreak on a university campus."
 
 
 tags:
@@ -27,6 +27,9 @@ featured: false
 
 links:
 - name: Custom Link
+  url: "https://arxiv.org/abs/2211.14691"
+  url_pdf: "https://arxiv.org/pdf/2211.14691.pdf"
+  url_code: "https://github.com/JennyHuang19/damcmc_timevarying_beta"
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
