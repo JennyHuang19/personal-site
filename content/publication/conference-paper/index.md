@@ -26,11 +26,11 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In Conference on Neural Information Processing Systems: Causality for Real world Impact
+publication: In *Conference on Neural Information Processing Systems: Causality for Real-world Impact*
 publication_short: In *NeurIPS-22*
 
 abstract: The goal of low-income fare subsidy programs is to increase equitable access to public transit, and in doing so, increase access to jobs, housing, education and other essential resources. King County Metro, one of the largest transit providers focused on equitable public transit, has been innovative in launching new programs for low-income riders. However, due to the observational nature of data on ridership behavior in King County, evaluating the effectiveness of such innovative policies is difficult. In this work, we used seven datasets from a variety of sources, and used a recent interpretable machine-learning-based causal inference matching method called FLAME to evaluate one of King County Metro’s largest programs implemented in 2020: the Subsidized Annual Pass (SAP). Using FLAME, we construct high-quality matched groups and identify features that are important for predicting ridership and re-enrollment. Our analysis provides feedback for policy-makers on what type of interventions might be effective in improving access to transit. In particular, we found that SAP is effective in increasing long-term ridership and re-enrollment. Notably, there are pronounced positive treatment effects in populations that have higher access to public transit and jobs. Treatment effects are also more pronounced in the Asian population and in individuals ages
-65+. Insights from this work can help broadly inform public transportation policy decisions and generalize broadly to other cities and other forms of transportation.
+65 and up. Insights from this work can help broadly inform public transportation policy decisions and generalize broadly to other cities and other forms of transportation.
 
 # Summary. An optional shortened abstract.
 summary: Our work identifies impact of subsidy in transit fares on ridership behaviour, and gives insight on how to formulate policy to make cities more equitable through policy intervention that increases transit access.
