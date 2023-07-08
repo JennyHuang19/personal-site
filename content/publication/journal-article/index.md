@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Selective sweeps in SARS-CoV-2 variant competition"
 authors:
 - admin
-- Robert Ford
+- Laura Boyle, Sofia Hletko, Jenny Huang, June Lee, Gaurav Pallod, Hwai-Ray Tung, and Richard Durrett
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Proceedings of the National Academy of Sciences"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The main mathematical result in this paper is that change of variables in the ordinary differential equation (ODE) for the competition of two infections in a Susceptible–Infected–Removed (SIR) model shows that the fraction of cases due to the new variant satisfies the logistic differential equation, which models selective sweeps. Fitting the logistic to data from the Global Initiative on Sharing All Influenza Data (GISAID) shows that this correctly predicts the rapid turnover from one dominant variant to another. In addition, our fitting gives sensible estimates of the increase in infectivity. These arguments are applicable to any epidemic modeled by SIR equations.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
