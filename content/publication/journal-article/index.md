@@ -24,18 +24,15 @@ publication_short: ""
 
 abstract: The main mathematical result in this paper is that change of variables in the ordinary differential equation (ODE) for the competition of two infections in a Susceptible–Infected–Removed (SIR) model shows that the fraction of cases due to the new variant satisfies the logistic differential equation, which models selective sweeps. Fitting the logistic to data from the Global Initiative on Sharing All Influenza Data (GISAID) shows that this correctly predicts the rapid turnover from one dominant variant to another. In addition, our fitting gives sensible estimates of the increase in infectivity. These arguments are applicable to any epidemic modeled by SIR equations.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
 - Source Themes
 featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#   url: "https://doi.org/10.1073/pnas.2213879119"
+url_pdf: [https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119](https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119)
+url_code: 'https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING'
 url_dataset: ''
 url_poster: ''
 url_project: ''
