@@ -1,7 +1,7 @@
 ---
 title: "Fitting a Stochastic Model of Intensive Care Occupancy to Noisy COVID-19 Hospitalization Time Series"
 authors: 
-- Achal Aswathi, Vladimir Minin, Jenny Huang, Daniel Chow, and Jason Xu
+- Achal Aswathi, Volodymyr Minin, Jenny Huang, Daniel Chow, and Jason Xu
 
 date: "2022-03-12T00:00:00Z"
 doi: ""
