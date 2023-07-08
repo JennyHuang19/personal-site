@@ -27,7 +27,6 @@ featured: false
 
 links:
 - name: Custom Link
-  url: "https://arxiv.org/abs/2211.14691"
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
