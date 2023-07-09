@@ -1,5 +1,5 @@
 ---
-title: 2022 Duke Faculty Scholars
+title: 2022 Duke Faculty Scholar
 subtitle: Duke Today Faculty Scholars Article
 
 # Summary for listings and search engines
@@ -26,6 +26,8 @@ image:
   preview_only: false
 
 ---
+
+My COVID-19 projects received the 2022 Duke Faculty Scholar Award!
 
 [Duke Today Article](https://today.duke.edu/2022/05/three-juniors-selected-faculty-scholars-excellence-research#:~:text=2022%20Faculty%20Scholars%3A%20Patrick%20Duan%2C%20Jenny%20Huang%20and%20Dinachi%20Okonkwo.)
 
