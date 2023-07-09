@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#Publications'
     weight: 20
-  - name: Recent News
-    url: '#Recent News'
+  - name: News
+    url: '#News'
     weight: 30
   - name: Skills
-    url: '#Skills'
+    url: '#skills'
     weight: 30
   - name: Talks
     url: '#talks'
