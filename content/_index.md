@@ -53,9 +53,9 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: experience
+  - block: Experience
+    id: Experience
     content:
-      id: experience
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -77,9 +77,9 @@ sections:
     design:
       columns: '2'
   - block: features
+    id: Skills
     content:
-      id: skills
-      title: skills
+      title: Skills
       items:
         - name: R
           description: 4 years experience
