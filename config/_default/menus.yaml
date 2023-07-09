@@ -13,15 +13,15 @@ main:
   - name: News
     url: '#News'
     weight: 30
+  - name: Experience
+    url: '#experience'
+    weight: 60
   - name: Skills
     url: '#skills'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
