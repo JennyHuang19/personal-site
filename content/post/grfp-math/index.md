@@ -27,4 +27,4 @@ image:
 
 ---
 
-[Duke Today Article](https://gradschool.duke.edu/about/news/21-graduate-school-students-receive-nsf-graduate-research-fellowships/)
+[Read More Here](https://gradschool.duke.edu/about/news/21-graduate-school-students-receive-nsf-graduate-research-fellowships/)
