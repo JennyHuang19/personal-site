@@ -73,9 +73,7 @@ sections:
           location: Durham, NC
           date_start: '2021-01-01'
           date_end: '2023-08-12'
-          description:
-            - (STA432) Mathematical Statistics
-            - (STA199) Intro to Data Science
+          description: (STA432) Mathematical Statistics; (STA199) Intro to Data Science.
     design:
       columns: '2'
   - block: features
