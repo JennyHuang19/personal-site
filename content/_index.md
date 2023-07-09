@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: Publications
     content:
       title: Publications
       text: |-
@@ -54,6 +55,7 @@ sections:
       columns: '2'
   - block: features
     content:
+      id: Skills
       title: Skills
       items:
         - name: R
