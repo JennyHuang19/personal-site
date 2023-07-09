@@ -72,21 +72,8 @@ sections:
           # company_logo: org-gc
           location: Durham, NC
           date_start: '2021-01-01'
-          date_end: ''
+          date_end: '2023-08-12'
           description: Taught Mathematical Statistics and Intro to Data Science.
-              Responsibilities include:
-
-              * Leading Lab
-              * Teaching Statistical Inference and R programming
-              * Grading
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: features
