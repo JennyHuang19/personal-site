@@ -27,9 +27,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: Recent News
+    id: News
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -55,8 +55,8 @@ sections:
       columns: '2'
   - block: features
     content:
-      id: Skills
-      title: Skills
+      id: skills
+      title: skills
       items:
         - name: R
           description: 4 years experience
