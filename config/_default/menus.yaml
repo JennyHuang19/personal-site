@@ -14,10 +14,10 @@ main:
     url: '#News'
     weight: 30
   - name: Experience
-    url: '#experience'
+    url: '#Experience'
     weight: 60
   - name: Skills
-    url: '#skills'
+    url: '#Skills'
     weight: 30
   - name: Talks
     url: '#talks'
