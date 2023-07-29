@@ -85,20 +85,13 @@ sections:
           description: 4 years experience
           icon: r-project
           icon_pack: fab
-        - name: python
+        - name: Python
           description: 4 years experience
           icon: python
           icon_pack: fab
         - name: Probability and Statistics
           icon: chart-line
           icon_pack: fas
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
     design:
       columns: '2'
       view: compact
