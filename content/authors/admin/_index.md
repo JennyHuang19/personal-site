@@ -28,8 +28,8 @@ bio:
 interests:
   - Bayesian Inference
   - Robust ML
+  - Epidemic Modeling
   - Causal Inference
-  - Epidemic Models
 
 # Education to show in About widget
 education:
