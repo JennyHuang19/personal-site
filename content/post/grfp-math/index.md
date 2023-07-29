@@ -27,4 +27,4 @@ image:
 
 ---
 
-[Read More Here](https://gradschool.duke.edu/about/news/21-graduate-school-students-receive-nsf-graduate-research-fellowships/)
+[GRFP in Mathematics: read more here!)](https://gradschool.duke.edu/about/news/21-graduate-school-students-receive-nsf-graduate-research-fellowships/)
