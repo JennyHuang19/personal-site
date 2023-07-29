@@ -18,7 +18,7 @@ role: jhuang9@mit.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIT
+  - name: PhD Student in ML
     url: https://www.eecs.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,8 +28,8 @@ bio:
 interests:
   - Bayesian Inference
   - Robust ML
-  - Epidemic Modeling
   - Causal Inference
+  - Epidemic Models
 
 # Education to show in About widget
 education:
@@ -80,7 +80,7 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-I am a first year PhD student studying Machine Learning at MIT, grateful to be working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/).
+I am a first year PhD student at MIT, grateful to be working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/).
 
 Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I was fortunate to work with a host of amazing people, including [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I got my first taste of research and developed an impassioned optimism for STEM!
 
