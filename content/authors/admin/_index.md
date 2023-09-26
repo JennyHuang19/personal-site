@@ -80,7 +80,7 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-I am a first year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) under [LIDS](https://lids.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/)!
+I am a first year PhD student studying machine learning at MIT, grateful to be working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) under [LIDS](https://lids.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/)!
 
 Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I worked with a host of amazing people, including [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I developed a love for all things STEM!
 
