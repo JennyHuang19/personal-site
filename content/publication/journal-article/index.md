@@ -1,7 +1,6 @@
 ---
 title: "Selective sweeps in SARS-CoV-2 variant competition"
 authors:
-- admin
 - Laura Boyle, Sofia Hletko, Jenny Huang, June Lee, Gaurav Pallod, Hwai-Ray Tung, and Richard Durrett
 author_notes:
 - "Equal contribution"
