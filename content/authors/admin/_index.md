@@ -84,6 +84,6 @@ I am a first year PhD student studying machine learning at MIT, grateful to be w
 
 Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I worked with a host of amazing people, including [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I developed a love for all things STEM!
 
-Outside the lab, I enjoy reading poetry (particularly about nature) and dance (hip-hop, swing, ballet)!
+Outside the lab, I enjoy poetry (particularly about nature) and dance (hip-hop, swing, ballet)!
 
 {style="text-align: justify;"}
