@@ -33,12 +33,6 @@ featured: false
 #   url: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
 url_pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
 url_code: 'https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
