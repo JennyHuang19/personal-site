@@ -28,15 +28,12 @@ featured: false
 
 links:
 # - name: ""
-url: "arXiv:2203.00229"
+url: "[arXiv:2203.00229](https://doi.org/10.1002/sim.9907)"
 url_pdf: "[https://doi.org/10.1002/sim.9907](https://doi.org/10.1002/sim.9907)"
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
