@@ -30,12 +30,7 @@ links:
 #   url: "https://arxiv.org/abs/2211.14691"
 url_pdf: "https://arxiv.org/pdf/2211.14691.pdf"
 url_code: 'https://github.com/JennyHuang19/damcmc_timevarying_beta'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
