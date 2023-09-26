@@ -1,7 +1,6 @@
 ---
 title: "Ecological Drivers of Parasite Species Richness in Primates: a Novel Approach to Addressing Sampling Bias."
-authors:
-- Courtney S. Werner, Jenny Huang, Marie Claire Chelini, Andrew Patterson, Jingjing Shi, Mohamad Elmasri, Max Farrell, Melanie Wang, Charles L. Nunn.
+authors: Courtney S. Werner, Jenny Huang, Marie Claire Chelini, Andrew Patterson, Jingjing Shi, Mohamad Elmasri, Max Farrell, Melanie Wang, Charles L. Nunn.
 author_notes:
 date: "2022-06-12T00:00:00Z"
 doi: ""
