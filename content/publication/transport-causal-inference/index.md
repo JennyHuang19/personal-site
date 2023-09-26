@@ -44,12 +44,7 @@ featured: true
 #   url: https://openreview.net/forum?id=ZNUcipRpUck
 url_pdf: "https://openreview.net/forum?id=ZNUcipRpUck"
 url_code: 'https://github.com/albertyusun/cisil-causal-inference'
-url_dataset:
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source:
-url_video:
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
