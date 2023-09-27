@@ -26,9 +26,9 @@ tags:
 featured: false
 
 links:
-# - name: ""
+# - name: "https://arxiv.org/abs/2211.14691"
 #   url: "https://arxiv.org/abs/2211.14691"
-url_pdf: "https://arxiv.org/pdf/2211.14691.pdf"
+url_pdf: "[https://arxiv.org/pdf/2211.14691.pdf](https://arxiv.org/abs/2211.14691)"
 url_code: 'https://github.com/JennyHuang19/damcmc_timevarying_beta'
 
 
