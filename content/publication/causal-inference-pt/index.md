@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: "Conference on Neural Information Processing Systems"
 publication_short: "NeurIPS-22"
 
-abstract:
+abstract: The goal of low-income fare subsidy programs is to increase equitable access to public transit, and in doing so, increase access to jobs, housing, education and other essential resources.
 
 tags:
 - Source Themes
