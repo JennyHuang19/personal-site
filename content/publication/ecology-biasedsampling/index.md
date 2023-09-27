@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "Proceedings of the National Academy of Sciences"
 publication_short: ""
 
-abstract: Primates harbor diverse parasite communities that vary widely across species. Investigating this cross-species variation requires comparative approaches, yet inferences from comparative research on parasitism are limited by variation in sampling effort: some hosts, and some parasites, are better studied than others. Previous studies have attempted to address these limitations using richness estimators or by including a measure of sampling effort in the statistical models, with limited success. We take a novel approach to address sampling bias by imputing shared parasites using both host phylogeny and geography in a link prediction model.
+abstract:
 
 tags:
 - Source Themes
