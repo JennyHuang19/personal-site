@@ -1,5 +1,5 @@
 ---
-title: "Ecological Drivers of Parasite Species Richness in Primates: a Novel Approach to Addressing Sampling Bias"
+title: "Ecological Drivers of Parasite Species Richness: a Novel Approach to Addressing Sampling Bias"
 authors:
 - Courtney S. Werner, Jenny Huang, Marie Claire Chelini, Andrew Patterson, et al.
 author_notes:
@@ -28,8 +28,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+name: ""
+url: ""
 url_pdf: ""
 url_code: ""
 
