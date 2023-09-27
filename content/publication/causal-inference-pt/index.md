@@ -1,7 +1,7 @@
 ---
 title: "Moving towards a more equal world, one ride at a time: Studying Public Transportation Initiatives using interpretable causal inference"
 authors:
-- Jenny Huang*, Gaurav Parikh*, Albert Sun*, Lesia Semenova, and Cynthia Rudin
+- Gaurav Parikh*, Jenny Huang*, Albert Sun*, Lesia Semenova, and Cynthia Rudin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
