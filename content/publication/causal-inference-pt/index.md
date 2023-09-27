@@ -18,10 +18,11 @@ publishDate: "2022-10-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the National Academy of Sciences"
+publication: "Conference on Neural Information Processing Systems: Causality for Real-world Impact"
 publication_short: ""
 
-abstract: The main mathematical result in this paper is that change of variables in the ordinary differential equation (ODE) for the competition of two infections in a Susceptible–Infected–Removed (SIR) model shows that the fraction of cases due to the new variant satisfies the logistic differential equation, which models selective sweeps. Fitting the logistic to data from the Global Initiative on Sharing All Influenza Data (GISAID) shows that this correctly predicts the rapid turnover from one dominant variant to another. In addition, our fitting gives sensible estimates of the increase in infectivity. These arguments are applicable to any epidemic modeled by SIR equations.
+abstract: The goal of low-income fare subsidy programs is to increase equitable access to public transit, and in doing so, increase access to jobs, housing, education and other essential resources. King County Metro, one of the largest transit providers focused on equitable public transit, has been innovative in launching new programs for low-income riders. However, due to the observational nature of data on ridership behavior in King County, evaluating the effectiveness of such innovative policies is difficult. In this work, we used seven datasets from a variety of sources, and used a recent interpretable machine-learning-based causal inference matching method called FLAME to evaluate one of King County Metro’s largest programs implemented in 2020: the Subsidized Annual Pass (SAP). Using FLAME, we construct high-quality matched groups and identify features that are important for predicting ridership and re-enrollment. Our analysis provides feedback for policy-makers on what type of interventions might be effective in improving access to transit. In particular, we found that SAP is effective in increasing long-term ridership and re-enrollment. Notably, there are pronounced positive treatment effects in populations that have higher access to public transit and jobs. Treatment effects are also more pronounced in the Asian population and in individuals ages
+65 and up. Insights from this work can help broadly inform public transportation policy decisions and generalize broadly to other cities and other forms of transportation.
 
 tags:
 - Source Themes
@@ -29,9 +30,9 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
-url_pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2213879119"
-url_code: 'https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING'
+#   url: "https://openreview.net/forum?id=ZNUcipRpUck"
+url_pdf: "https://openreview.net/forum?id=ZNUcipRpUck"
+url_code: 'https://github.com/albertyusun/cisil-causal-inference'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
