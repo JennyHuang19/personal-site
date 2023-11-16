@@ -96,11 +96,6 @@ sections:
     id: Skills
     content:
       title: Skills
-      items:
-        - name: LateX
-              description: 4 years experience
-              icon: chart-line
-              icon_pack: fas
     design:
       columns: '2'
       view: compact
