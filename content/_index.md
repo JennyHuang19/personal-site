@@ -66,14 +66,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Statistics TA
+        - title: Teaching Assistant
           company: Duke University
           company_url: ''
           # company_logo: org-gc
           location: Durham, NC
           date_start: '2021-01-01'
           date_end: '2023-08-12'
-          description: (STA432) Mathematical Statistics; (STA199) Intro to Data Science.
+          description: Three terms of teaching assistant for Intro to Data Science (STA199) and Mathematical Statistics (STA432).
+      - title: Data Analyst
+            company: Emergo Therapeutics
+            company_url: ''
+            # company_logo: org-gc
+            location: Morrisville, NC
+            date_start: '2021-06-01'
+            date_end: '2021-09-01'
+            description: Analyzed clinical trial data, contributing insights guiding Emergo's decision-making process in clinical trials.
+      - title: Intern
+              company: Lenovo
+              company_url: ''
+              # company_logo: org-gc
+              location: Morrisville, NC
+              date_start: '2019-05-01'
+              date_end: '2019-08-01'
+              description: 
     design:
       columns: '2'
   - block: features
@@ -81,17 +97,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 4 years experience
-          icon: r-project
-          icon_pack: fab
         - name: Python
-          description: 4 years experience
-          icon: python
-          icon_pack: fab
-        - name: Probability and Statistics
-          icon: chart-line
-          icon_pack: fas
+              description: 4 years experience
+              icon: python
+              icon_pack: fab
+        - name: R
+              description: 4 years experience
+              icon: r-project
+              icon_pack: fab
+        - name: LateX
+              description: 4 years experience
+              icon: chart-line
+              icon_pack: fas
     design:
       columns: '2'
       view: compact
