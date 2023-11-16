@@ -74,6 +74,22 @@ sections:
           date_start: '2021-01-01'
           date_end: '2023-08-12'
           description: Three terms of teaching assistant for Intro to Data Science (STA199) and Mathematical Statistics (STA432).
+        - title: Data Scientist
+          company: Emergo Therapeutics
+          company_url: ''
+          # company_logo: org-gc
+          location: Morrisville, NC
+          date_start: '2021-06-01'
+          date_end: '2021-09-01'
+          description: Analyzed clinical trial data, contributing insights guiding Emergo's decision-making process in clinical trials.
+        - title: Intern
+          company: Lenovo
+          company_url: ''
+          # company_logo: org-gc
+          location: Morrisville, NC
+          date_start: '2019-05-01'
+          date_end: '2019-08-01'
+          description: 
     design:
       columns: '2'
   - block: features
@@ -81,14 +97,6 @@ sections:
     content:
       title: Skills
       items:
-        - name: Python
-              description: 4 years experience
-              icon: python
-              icon_pack: fab
-        - name: R
-              description: 4 years experience
-              icon: r-project
-              icon_pack: fab
         - name: LateX
               description: 4 years experience
               icon: chart-line
