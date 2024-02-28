@@ -27,13 +27,9 @@ tags:
 featured: false
 
 links:
-# - name: "https://onlinelibrary.wiley.com/doi/10.1002/sim.9907"
-# url: "https://onlinelibrary.wiley.com/doi/10.1002/sim.9907"
-# url_pdf: "https://doi.org/10.1002/sim.9907"
-url_code: ''
-url_project: ''
-url_slides: ''
-
+# - name: "[https://arxiv.org/abs/2211.14691](https://doi.org/10.1002/sim.9907)"
+#   url: "[https://arxiv.org/abs/2211.14691](https://doi.org/10.1002/sim.9907)"
+url_pdf: "https://doi.org/10.1002/sim.9907"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
