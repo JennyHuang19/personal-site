@@ -2,7 +2,7 @@
 title: "Detecting Changes in the Transmission Rate of a Stochastic Epidemic Model"
 authors: 
 - Jenny Y. Huang, Raphaël Morsomme, David Dunson, Jason Xu
-date: "2022-11-22T00:00:00Z"
+date: "2024-02-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
