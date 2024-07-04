@@ -101,11 +101,15 @@ sections:
           description: 4 years experience
           icon: python
           icon_pack: fab
+        - name: PyTorch
+          description: 2 years experience
+          icon: python
+          icon_pack: fab
         - name: R
           description: 4 years experience
           icon: r-project
           icon_pack: fab
-        - name: LateX
+        - name: LaTeX
           description: 4 years experience
           icon: chart-line
           icon_pack: fas
