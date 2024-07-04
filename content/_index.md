@@ -66,6 +66,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Communication Fellow
+          company: Massachusetts Institute of Technology
+          company_url: ''
+          # company_logo: org-gc
+          location: Cambridge, MA
+          date_start: '2024-01-01'
+          date_end: 
+          description: Coaching MIT students on their communication abilities in scientific writing, talks, and posters.
         - title: Teaching Assistant
           company: Duke University
           company_url: ''
