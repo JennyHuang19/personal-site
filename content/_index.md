@@ -97,12 +97,8 @@ sections:
     content:
       title: Skills
       items:
-        - name: Python
+        - name: Python + PyTorch
           description: 4 years experience
-          icon: python
-          icon_pack: fab
-        - name: PyTorch
-          description: 2 years experience
           icon: python
           icon_pack: fab
         - name: R
