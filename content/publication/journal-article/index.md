@@ -35,10 +35,10 @@ url_code: 'https://github.com/JennyHuang19/DOMATH_2022_COVID_MODELING'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 ---
 
