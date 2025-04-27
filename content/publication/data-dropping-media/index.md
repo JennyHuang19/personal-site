@@ -21,12 +21,6 @@ publication_types: ["3"]
 
 abstract: A data analyst might worry about generalization if dropping a very small fraction of data points from a study could change its substantive conclusions. Checking this non-robustness directly poses a combinatorial optimization problem and is intractable even for simple models and moderate data sizes. Recently various authors have proposed a diverse set of approximations to detect this non-robustness. In the present work, we show that, even in a setting as simple as ordinary least squares (OLS) linear regression, many of these approximations can fail to detect (true) non-robustness in realistic data arrangements. We focus on OLS in the present work due its widespread use and since some approximations work only for OLS. Of the approximations that do not fail our tests, we find not only that a simple recursive greedy algorithm is the most conceptually straightforward but also that it can be orders of magnitude faster to run than the others.
 
-Venues where this work has appeared!
-- Second Workshop on Navigating and Addressing Data Problems for Foundation Models @ ICLR. Singapore, April 2025.
-- Second Workshop on Attributing Model Behavior at Scale @ NeurIPS. Vancouver , Canada, December 2024.
-- MIT Robustness and Influence Functions Workshop. Cambridge, Massachusetts, August 2024. [Invited Talk]
-- Women in Machine Learning (WiML) Symposium @ ICML. Vienna, Austria, July 2024.
-
 tags:
 - Source Themes
 featured: false
