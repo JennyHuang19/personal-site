@@ -26,9 +26,8 @@ bio:
 
 # Interests to show in About widget
 interests:
+  - Robustness and Uncertainty Quantification
   - Bayesian Methods
-  - Statistics and Probability
-  - Robust ML
 
 # Education to show in About widget
 education:
