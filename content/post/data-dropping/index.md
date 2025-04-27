@@ -1,5 +1,5 @@
 ---
-title: Data Dropping Media
+title: Data Dropping
 subtitle: 
 
 # Date published
@@ -31,5 +31,5 @@ Venues where our work has appeared:
 - International Conference on Continuous Optimization, Robustness Session. USC, Los Angeles, California, July 2025. (upcoming!) [invited talk]
 - MIT Robustness and Influence Functions Workshop. Cambridge, Massachusetts, August 2024. [invited talk]
 - Second Workshop on Navigating and Addressing Data Problems for Foundation Models @ ICLR. Singapore, April 2025. [poster]
-- Second Workshop on Attributing Model Behavior at Scale @ NeurIPS. Vancouver , Canada, December 2024. [poster]
+- Second Workshop on Attributing Model Behavior at Scale @ NeurIPS. Vancouver, Canada, December 2024. [poster]
 - Women in Machine Learning (WiML) Symposium @ ICML. Vienna, Austria, July 2024. [poster]
