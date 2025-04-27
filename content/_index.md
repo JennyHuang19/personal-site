@@ -66,6 +66,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist Intern
+          company: MIT-IBM Watson AI Lab
+          company_url: ''
+          # company_logo: org-gc
+          location: Cambridge, MA
+          date_start: '2025-06-02'
+          date_end: 
+          description: AI-Assisted Decision Making.
         - title: Communication Fellow
           company: Massachusetts Institute of Technology
           company_url: ''
