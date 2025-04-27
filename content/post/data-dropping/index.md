@@ -1,10 +1,12 @@
 ---
-title: Approximations to worst-case data dropping: unmasking failure modes
-subtitle:
+title: Data Dropping Media
+subtitle: 
 
 # Date published
 date: '2025-04-27T00:00:00Z'
 
+# Summary for listings and search engines
+# summary:
 
 # Is this an unpublished draft?
 draft: false
