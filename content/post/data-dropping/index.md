@@ -24,7 +24,7 @@ image:
   
 ---
 
-Imagine dropping <1\% of the data in your dataset and seeing the conclusions to your data analysis change. It'd be nice to have a fast way to check whether such a small fraction of data exists! Recent works have proposed approximations for performing this check. In realistic data (yep, even basic linear regression!) we show that such approximations can break down, suggesting ways forward for users and developers.
+Imagine dropping <1\% of the data in your dataset and seeing the conclusions to your data analysis change. It'd be nice to have a fast way to check whether such a small fraction of data existed! Recent works have proposed approximations for performing this check. In realistic data (yep, even basic linear regression!) we show that such approximations can break down, suggesting ways forward for users and developers.
 
 Venues where our work has appeared:
 
