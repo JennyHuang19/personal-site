@@ -82,6 +82,6 @@ I am a second year PhD student studying machine learning at MIT, working in the 
 
 Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I worked with [Jason Xu](https://jasonxu90.github.io/), [David Dunson](https://scholars.duke.edu/person/dunson), [Cynthia Rudin](https://ece.duke.edu/faculty/cynthia-rudin), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I developed my love for all things STEM.
 
-In my free time, I enjoy dance (hip-hop, swing, ballet), volleyball, and poetry!
+In my free time, I enjoy writing in coffee shops and rummaging through Cambridge’s bookstores as well as playing volleyball and signing up for dance classes on a whim!
 
 {style="text-align: justify;"}
