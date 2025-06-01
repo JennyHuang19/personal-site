@@ -26,7 +26,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Robustness and Uncertainty Quantification
+  - Data-centric Machine Learning
+  - Uncertainty Quantification
   - Bayesian Methods
 
 # Education to show in About widget
@@ -34,6 +35,9 @@ education:
   courses:
     - course: PhD in Electrical Engineering and Computer Science (in progress)
       institution: Massachusetts Institute of Technology
+    - course: SM in Electrical Engineering and Computer Science
+      institution: Massachusetts Institute of Technology
+      year: 2025
     - course: BSc in Statistical Science
       institution: Duke University
       year: 2023
