@@ -114,17 +114,17 @@ sections:
       title: Skills
       items:
         - name: Python + PyTorch
-          description: 4 years experience
+          description: 6 years experience
           icon: python
           icon_pack: fab
-        - name: R
-          description: 4 years experience
-          icon: r-project
-          icon_pack: fab
         - name: LaTeX
-          description: 4 years experience
+          description: 5 years experience
           icon: chart-line
           icon_pack: fas
+        - name: R
+          description: 6 years experience
+          icon: r-project
+          icon_pack: fab
     design:
       columns: '2'
       view: compact
