@@ -61,7 +61,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&user=5cftA2kAAAAJ&view_op=list_works&gmla=AMpAcmQmYKLPW3ABCvFfNArypy1j0EO9bFs3yncpo4y233WA74zEuYa4x7k5HUXV98PBB3q3kTxOHu1T7NtejFLvFz3O21QFvwHvMl78zvpM5iw-G6mQ7rFh2dTU
+    link: https://scholar.google.com/citations?user=RPVZLH4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/jennyhuang19
