@@ -86,7 +86,7 @@ I am a second year PhD student studying machine learning at MIT, working in the 
 
 Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I had a really fun time working with [Jason Xu](https://jasonxu90.github.io/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/home.html), [David Dunson](https://scholars.duke.edu/person/dunson), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I developed a love for all STEM-y things.
 
-Recently, I’m a research intern at IBM, where I’ve been design routing strategies that allocate inference-time compute dynamically.
+Recently, I’m a research intern at IBM, where I’ve been design routing strategies to allocate inference-time LM compute dynamically.
 
 In my free time, I enjoy writing in coffee shops and rummaging through Cambridge bookstores as well as playing volleyball and signing up for dance classes on a whim!
 
