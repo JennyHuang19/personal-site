@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://openreview.net/forum?id=ZNUcipRpUck"
-url_pdf: "[https://openreview.net/forum?id=ZNUcipRpUck](https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1)"
+url_pdf: "[https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1](https://hdsr.mitpress.mit.edu/pub/9zgh9isd/release/1)"
 url_code: 'https://github.com/albertyusun/cisil-causal-inference'
 
 # Featured image
