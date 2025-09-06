@@ -84,7 +84,7 @@ highlight_name: true
 
 I am a second year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/).
 
-Before coming to MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I had a really fun time working with [Jason Xu](https://jasonxu90.github.io/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/home.html), [David Dunson](https://scholars.duke.edu/person/dunson), and [Rick Durrett](https://services.math.duke.edu/~rtd/). Before Duke, I went to the [NC School of Science and Math](https://www.ncssm.edu/), where I developed a love for all STEM-y things.
+My work is supported by the Amazon AI Research Innovation Fellowship and has been supported by the MIT Presidential Fellowship and Quad Fellowship in the past.
 
 Recently, I’m a research intern at IBM, where I'm working on routing strategies to allocate inference-time LM compute dynamically.
 
