@@ -28,7 +28,7 @@ bio:
 interests:
   - Data-centric Machine Learning
   - Uncertainty Quantification
-  - Efficient LLM Inference
+  - Efficient AI
 
 # Education to show in About widget
 education:
