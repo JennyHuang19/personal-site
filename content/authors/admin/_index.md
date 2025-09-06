@@ -28,7 +28,7 @@ bio:
 interests:
   - Data-centric Machine Learning
   - Uncertainty Quantification
-  - Bayesian Methods
+  - Efficient LLM Inference
 
 # Education to show in About widget
 education:
@@ -82,9 +82,7 @@ email: 'jhuang9@mit.edu'
 highlight_name: true
 ---
 
-I am a second year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/).
-
-My work is supported by the Amazon AI Research Innovation Fellowship and has been supported by the MIT Presidential Fellowship and Quad Fellowship in the past.
+I am a second year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/). My work is supported by the Amazon AI Research Innovation Fellowship and has been supported by the MIT Presidential and Quad Fellowships.
 
 Recently, I’m a research intern at IBM, where I'm working on routing strategies to allocate inference-time LM compute dynamically.
 
