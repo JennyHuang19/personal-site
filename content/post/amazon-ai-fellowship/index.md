@@ -22,6 +22,6 @@ image:
 
 ---
 
-I was selected, along with eight other MIT PhD students, as an Amazon AI Innovation Fellow!
+I was selected, along with eight other MIT PhD students, as an Amazon AI Innovation Fellow.
 
-[read more here!](https://computing.mit.edu/news/nine-mit-phd-students-named-amazon-ai-innovation-fellows/)
+[Read more here!](https://computing.mit.edu/news/nine-mit-phd-students-named-amazon-ai-innovation-fellows/)
