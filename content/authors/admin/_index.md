@@ -26,9 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Data-centric Machine Learning
-  - Uncertainty Quantification
-  - Efficient AI
+  - Robustness & Generalization in ML
+  - Human-Feedback & Alignment
+  - Bayesian Methods
 
 # Education to show in About widget
 education:
