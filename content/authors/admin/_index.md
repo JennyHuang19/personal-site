@@ -84,7 +84,7 @@ highlight_name: true
 
 I am a third year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/). My work is supported by the Amazon AI Research Innovation Fellowship and has been supported by the MIT Presidential and Quad Fellowships.
 
-Recently, I interned at IBM Research, where I worked with Wei Sun and the inference-scaling team on a routing framework for LLM test-time compute. I did my undergrad at [Duke University](https://stat.duke.edu/), where I had a lot of fun working with [Jason Xu](https://jasonxu90.github.io/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/home.html), [David Dunson](https://scholars.duke.edu/person/dunson), and [Rick Durrett](https://services.math.duke.edu/~rtd/).
+This summer, I worked with Wei Sun and the inference-scaling team at IBM on a routing framework for LLM test-time compute. Before MIT, I did my undergrad at [Duke University](https://stat.duke.edu/), where I had a lot of fun working with [Jason Xu](https://jasonxu90.github.io/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/home.html), [David Dunson](https://scholars.duke.edu/person/dunson), and [Rick Durrett](https://services.math.duke.edu/~rtd/).
 
 In my free time, I enjoy writing in coffee shops and rummaging through Cambridge bookstores as well as playing volleyball and signing up for dance classes on a whim!
 
