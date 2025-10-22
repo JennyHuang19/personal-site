@@ -26,8 +26,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Robustness & Generalization in ML
-  - Human-Feedback & Alignment
+  - Data-Centric ML
+  - AI Alignment
   - Bayesian Methods
 
 # Education to show in About widget
