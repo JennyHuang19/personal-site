@@ -37,7 +37,7 @@ education:
     - course: SM in Electrical Engineering and Computer Science
       institution: Massachusetts Institute of Technology
       year: 2025
-    - course: BSc in Statistical Science & Computer Science
+    - course: BSc in Statistical Science & BSc in Computer Science
       institution: Duke University
       year: 2023
 
