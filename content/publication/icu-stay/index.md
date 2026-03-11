@@ -16,8 +16,8 @@ publishDate: "2025-07-07T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICLR 2026 (Top 0.1% of submissions)."
-publication_short: "ICLR 2026 (Top 0.1% of submissions)."
+publication: "ICLR 2026 (Top *0.1%* of submissions)"
+publication_short: "ICLR 2026 (Top *0.1%* of submissions)"
 
 abstract: 'We propose a method for evaluating the robustness of a widely used LLM ranking system---the Bradley--Terry ranking system---to dropping a worst-case very small fraction of evaluation data. Our approach is computationally fast and easy to adopt. When we apply our method to matchups from two popular human-preference platforms, Chatbot Arena and MT-Bench, we find that the Bradley--Terry rankings of top-performing models are remarkably sensitive to the removal of a small fraction of evaluations. Our framework also identifies the specific evaluations most responsible for such ranking flips, allowing for inspections of these influential preferences. We observe that the rankings derived from MT-Bench preferences are notably more robust than those from Chatbot Arena, likely due to MT-bench’s use of expert annotators and carefully constructed prompts. Finally, we find that rankings based on crowdsourced human-evaluated systems are just as sensitive as those based on LLM-as-a-judge evaluations, where in both, dropping as little as 0.02% of the total evaluations in the dataset can change the top-ranked model.'
 
