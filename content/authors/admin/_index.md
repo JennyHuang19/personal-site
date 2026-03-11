@@ -82,6 +82,6 @@ I am a third year PhD student studying machine learning at MIT, working in the d
 
 Recently, I have been thinking about problems in [multi-turn interactions](https://arxiv.org/abs/2602.24287) in LLMs. Previously, I worked on problems in [AI evaluation](https://arxiv.org/pdf/2508.11847v3) and [trustworthy data science](https://openreview.net/forum?id=m6EQ6YdPXV). I have interned at the MIT-IBM Watson AI Lab and Google Research (upcoming!).
 
-In my free time, I enjoy writing in coffee shops and rummaging through Cambridge bookstores as well as playing volleyball and signing up for dance classes on a whim!
+In my free time, I enjoy writing in coffee shops, rummaging through Cambridge bookstores, and signing up for dance classes on a whim!
 
 {style="text-align: justify;"}
