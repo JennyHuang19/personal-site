@@ -25,10 +25,9 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests:
-  - Data-Centric ML
-  - AI Alignment
-  - Bayesian Methods
+Industry Internships:
+  - IBM Research (2025)
+  - Google Research (upcoming!)
 
 # Education to show in About widget
 education:
@@ -84,7 +83,7 @@ highlight_name: true
 
 I am a third year PhD student studying machine learning at MIT, working in the department of [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) with Professor [Tamara Broderick](https://tamarabroderick.com/). My work is supported by the Amazon AI Research Innovation Fellowship and has been supported by the MIT Presidential and Quad Fellowships.
 
-Recently, I have been thinking about problems in [multi-turn interactions](https://arxiv.org/abs/2602.24287) in LLMs. Previously, I worked on problems in [AI evaluation](https://openreview.net/forum?id=b9r1snfxIH) and [trustworthy data science](https://openreview.net/forum?id=m6EQ6YdPXV).
+Recently, I have been thinking about problems in [multi-turn interactions](https://arxiv.org/abs/2602.24287) in LLMs. Previously, I worked on problems in [AI evaluation](https://arxiv.org/pdf/2508.11847v3) and [trustworthy data science](https://openreview.net/forum?id=m6EQ6YdPXV). I have worked at the MIT-IBM Watson AI Lab and Google Research (upcoming!).
 
 In my free time, I enjoy writing in coffee shops and rummaging through Cambridge bookstores as well as playing volleyball and signing up for dance classes on a whim!
 
