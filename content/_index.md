@@ -108,25 +108,5 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: features
-    id: Skills
-    content:
-      title: Skills
-      items:
-        - name: Python + PyTorch
-          description: 6 years experience
-          icon: python
-          icon_pack: fab
-        - name: LaTeX
-          description: 5 years experience
-          icon: chart-line
-          icon_pack: fas
-        - name: R
-          description: 6 years experience
-          icon: r-project
-          icon_pack: fab
-    design:
-      columns: '2'
-      view: compact
 
 ---
