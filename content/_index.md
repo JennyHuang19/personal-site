@@ -81,7 +81,7 @@ sections:
           location: Cambridge, MA
           date_start: '2024-01-01'
           date_end: 
-          description: Coaching MIT students on their communication abilities in scientific writing, talks, and posters.
+          description: Coaching scientific writing, talks, and visual design.
         - title: Teaching Assistant
           company: Duke University
           company_url: ''
@@ -97,7 +97,7 @@ sections:
           location: Morrisville, NC
           date_start: '2021-06-01'
           date_end: '2021-09-01'
-          description: Analyzed clinical trial data, contributing insights guiding Emergo's decision-making process in clinical trials.
+          description:
         - title: Intern
           company: Lenovo
           company_url: ''
