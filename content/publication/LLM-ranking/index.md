@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: https://openreview.net/forum?id=ZNUcipRpUck
-url_pdf: "https://openreview.net/pdf?id=b9r1snfxIH"
+url_pdf: "[https://openreview.net/pdf?id=b9r1snfxIH](https://arxiv.org/pdf/2508.11847v3)"
 url_code: 'https://github.com/JennyHuang19/IsRankingRobust'
 
 
